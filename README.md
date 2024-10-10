@@ -1,8 +1,8 @@
-<h2 align="left">Oi👋! Meu nome é Yan Julião.</h2>
+<h1 align="left">Oi👋! Meu nome é Yan Julião.</h1>
 
 ###
 
-<p align="left">Eu sou um desenvolvedor **Backend .NET/Node.js** em progresso</p>
+<p align="left">Eu sou um desenvolvedor <strong>Backend .NET/Node.js</strong> em progresso</p>
 
 ###
 
