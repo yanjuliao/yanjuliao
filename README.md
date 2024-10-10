@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Eu sou um desenvolvedor <strong>Backend .NET/Node.js</strong> em progresso</p>
+<p align="left">Eu sou um <strong>Desenvolvedor de Software .NET/Node.js</strong> em progresso</p>
 
 ###
 
