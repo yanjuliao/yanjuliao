@@ -10,6 +10,7 @@ Sou um **Desenvolvedor BackEnd .NET/Node.js em progresso**.
 
 
 ## Minhas Stacks
+![NestJS](https://www.google.com/imgres?q=nest%20js%20logo&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F808903%2Fscreenshots%2F3831862%2Fdribbble_szablon__1_1.png&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F3831862-Nest-JS-The-official-logo&docid=JL8ovrl6O96PpM&tbnid=LTTb5oRVwWey4M&vet=12ahUKEwi4s86JuISJAxWEjZUCHQ00BFEQM3oECBgQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwi4s86JuISJAxWEjZUCHQ00BFEQM3oECBgQAA)
 <p>
   <img alt=".NET" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="30" height="30"/>
   <img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" height="30"/>
