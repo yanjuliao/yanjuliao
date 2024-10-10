@@ -1,34 +1,91 @@
-# Olá, eu sou Yan Julião!
+<h2 align="left">Oi👋! Meu nome é Yan Julião.</h2>
 
-Sou um **Desenvolvedor BackEnd .NET/Node.js em progresso**.
+###
 
-## GitHub Stats
+<p align="left">Eu sou um desenvolvedor **Backend .NET/Node.js** em progresso</p>
 
-[![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=YanJuliao&show_icons=true&theme=dark)](https://github.com/yanjuliao)
+###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanJuliao&layout=compact&theme=dark)
+<br clear="both">
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yanjuliao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=yanjuliao&locale=pt-br&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yanjuliao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Minhas Stacks
-![NestJS](https://www.google.com/imgres?q=nest%20js%20logo&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F808903%2Fscreenshots%2F3831862%2Fdribbble_szablon__1_1.png&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F3831862-Nest-JS-The-official-logo&docid=JL8ovrl6O96PpM&tbnid=LTTb5oRVwWey4M&vet=12ahUKEwi4s86JuISJAxWEjZUCHQ00BFEQM3oECBgQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwi4s86JuISJAxWEjZUCHQ00BFEQM3oECBgQAA)
-<p>
-  <img alt=".NET" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="30" height="30"/>
-  <img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" height="30"/>
-  <img alt="NestJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="30" height="30"/>
-  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30"/>
-  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
-  <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30" height="30"/>
-  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/>
-</p>
+###
 
-## Atualmente Aprendendo
-<p>
-  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30"/>
-  <img alt="GoLang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="30" height="30"/>
-  <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30" height="30"/>
-  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"/>
-</p>
+<img align="left" height="330" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"  />
 
-## Contact
-- **E-mail**: [yanjuliao7@gmail.com](mailto:yanjuliao7@gmail.com)
-- **LinkedIn**: [Yan Julião](https://www.linkedin.com/in/yan-juliao)
+###
+
+<h2 align="left">Minhas Stacks</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+</div>
+
+###
+
+<h2 align="left">Atualmente Aprendendo</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/yan-juliao" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:yanjuliao7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/yan_juliao" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yanjuliao/yanjuliao/output/snake.svg" alt="Snake animation" />
+
+###
