@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou Yan Julião!
 
-<!--
-**yanjuliao/yanjuliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Desenvolvedor BackEnd .NET/Node.js em progresso**
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=YanJuliao&show_icons=true&theme=dark)](https://github.com/yanjuliao)
+
+## Minhas Stacks
+- **.NET**
+- **C#**
+- **Nest.js**
+- **TypeScript**
+- **Node.js**
+- **Flutter**
+- **Git**
+
+## Atualmente Aprendendo
+- **TypeScript**
+- **GoLang**
+- **Prisma**
+- **Flutter**
+- **Docker**
+
+## Contact
+- **E-mail**: [yanjuliao7@gmail.com](mailto:yanjuliao7@gmail.com)
+- **LinkedIn**: [Yan Julião](https://www.linkedin.com/in/yan-juliao)
